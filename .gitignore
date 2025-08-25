@@ -33,4 +33,4 @@ build/
 .vscode/
 
 ### Private Config ###
-application-dev.yaml
+/src/main/resources/application-dev.yaml
